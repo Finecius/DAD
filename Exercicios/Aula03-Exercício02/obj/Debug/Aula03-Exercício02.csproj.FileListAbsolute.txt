@@ -1,0 +1,10 @@
+D:\DAD(C#)\Exercicios\Aula03-Exercício02\obj\Debug\Aula03-Exercício02.csproj.AssemblyReference.cache
+D:\DAD(C#)\Exercicios\Aula03-Exercício02\obj\Debug\Aula03_Exercício02.Form1.resources
+D:\DAD(C#)\Exercicios\Aula03-Exercício02\obj\Debug\Aula03_Exercício02.Properties.Resources.resources
+D:\DAD(C#)\Exercicios\Aula03-Exercício02\obj\Debug\Aula03-Exercício02.csproj.GenerateResource.cache
+D:\DAD(C#)\Exercicios\Aula03-Exercício02\obj\Debug\Aula03-Exercício02.csproj.CoreCompileInputs.cache
+D:\DAD(C#)\Exercicios\Aula03-Exercício02\bin\Debug\Aula03-Exercício02.exe.config
+D:\DAD(C#)\Exercicios\Aula03-Exercício02\bin\Debug\Aula03-Exercício02.exe
+D:\DAD(C#)\Exercicios\Aula03-Exercício02\bin\Debug\Aula03-Exercício02.pdb
+D:\DAD(C#)\Exercicios\Aula03-Exercício02\obj\Debug\Aula03-Exercício02.exe
+D:\DAD(C#)\Exercicios\Aula03-Exercício02\obj\Debug\Aula03-Exercício02.pdb

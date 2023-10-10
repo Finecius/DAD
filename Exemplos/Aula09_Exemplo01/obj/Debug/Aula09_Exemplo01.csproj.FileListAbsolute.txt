@@ -1,0 +1,10 @@
+D:\DAD(C#)\Exemplos\Aula09_Exemplo01\bin\Debug\Aula09_Exemplo01.exe.config
+D:\DAD(C#)\Exemplos\Aula09_Exemplo01\bin\Debug\Aula09_Exemplo01.exe
+D:\DAD(C#)\Exemplos\Aula09_Exemplo01\bin\Debug\Aula09_Exemplo01.pdb
+D:\DAD(C#)\Exemplos\Aula09_Exemplo01\obj\Debug\Aula09_Exemplo01.csproj.AssemblyReference.cache
+D:\DAD(C#)\Exemplos\Aula09_Exemplo01\obj\Debug\Aula09_Exemplo01.Form1.resources
+D:\DAD(C#)\Exemplos\Aula09_Exemplo01\obj\Debug\Aula09_Exemplo01.Properties.Resources.resources
+D:\DAD(C#)\Exemplos\Aula09_Exemplo01\obj\Debug\Aula09_Exemplo01.csproj.GenerateResource.cache
+D:\DAD(C#)\Exemplos\Aula09_Exemplo01\obj\Debug\Aula09_Exemplo01.csproj.CoreCompileInputs.cache
+D:\DAD(C#)\Exemplos\Aula09_Exemplo01\obj\Debug\Aula09_Exemplo01.exe
+D:\DAD(C#)\Exemplos\Aula09_Exemplo01\obj\Debug\Aula09_Exemplo01.pdb

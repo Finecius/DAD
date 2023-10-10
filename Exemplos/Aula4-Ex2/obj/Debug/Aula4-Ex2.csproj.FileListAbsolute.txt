@@ -1,0 +1,10 @@
+D:\DAD(C#)\Exemplos\Aula4-Ex2\bin\Debug\Aula4-Ex2.exe.config
+D:\DAD(C#)\Exemplos\Aula4-Ex2\bin\Debug\Aula4-Ex2.exe
+D:\DAD(C#)\Exemplos\Aula4-Ex2\bin\Debug\Aula4-Ex2.pdb
+D:\DAD(C#)\Exemplos\Aula4-Ex2\obj\Debug\Aula4-Ex2.csproj.AssemblyReference.cache
+D:\DAD(C#)\Exemplos\Aula4-Ex2\obj\Debug\Aula4_Ex2.Form1.resources
+D:\DAD(C#)\Exemplos\Aula4-Ex2\obj\Debug\Aula4_Ex2.Properties.Resources.resources
+D:\DAD(C#)\Exemplos\Aula4-Ex2\obj\Debug\Aula4-Ex2.csproj.GenerateResource.cache
+D:\DAD(C#)\Exemplos\Aula4-Ex2\obj\Debug\Aula4-Ex2.csproj.CoreCompileInputs.cache
+D:\DAD(C#)\Exemplos\Aula4-Ex2\obj\Debug\Aula4-Ex2.exe
+D:\DAD(C#)\Exemplos\Aula4-Ex2\obj\Debug\Aula4-Ex2.pdb

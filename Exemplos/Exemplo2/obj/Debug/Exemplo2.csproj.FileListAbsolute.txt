@@ -1,0 +1,10 @@
+D:\DAD(C#)\Exemplos\Exemplo2\bin\Debug\Exemplo2.exe.config
+D:\DAD(C#)\Exemplos\Exemplo2\bin\Debug\Exemplo2.exe
+D:\DAD(C#)\Exemplos\Exemplo2\bin\Debug\Exemplo2.pdb
+D:\DAD(C#)\Exemplos\Exemplo2\obj\Debug\Exemplo2.csproj.AssemblyReference.cache
+D:\DAD(C#)\Exemplos\Exemplo2\obj\Debug\Exemplo2.Form1.resources
+D:\DAD(C#)\Exemplos\Exemplo2\obj\Debug\Exemplo2.Properties.Resources.resources
+D:\DAD(C#)\Exemplos\Exemplo2\obj\Debug\Exemplo2.csproj.GenerateResource.cache
+D:\DAD(C#)\Exemplos\Exemplo2\obj\Debug\Exemplo2.csproj.CoreCompileInputs.cache
+D:\DAD(C#)\Exemplos\Exemplo2\obj\Debug\Exemplo2.exe
+D:\DAD(C#)\Exemplos\Exemplo2\obj\Debug\Exemplo2.pdb

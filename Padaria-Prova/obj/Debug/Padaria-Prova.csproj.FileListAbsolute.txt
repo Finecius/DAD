@@ -1,0 +1,13 @@
+D:\DAD(C#)\Padaria-Prova\bin\Debug\Padaria-Prova.exe.config
+D:\DAD(C#)\Padaria-Prova\bin\Debug\Padaria-Prova.exe
+D:\DAD(C#)\Padaria-Prova\bin\Debug\Padaria-Prova.pdb
+D:\DAD(C#)\Padaria-Prova\bin\Debug\pt-BR\Padaria-Prova.resources.dll
+D:\DAD(C#)\Padaria-Prova\obj\Debug\Padaria-Prova.csproj.AssemblyReference.cache
+D:\DAD(C#)\Padaria-Prova\obj\Debug\Padaria_Prova.Form1.resources
+D:\DAD(C#)\Padaria-Prova\obj\Debug\Padaria_Prova.Properties.Resources.resources
+D:\DAD(C#)\Padaria-Prova\obj\Debug\Padaria_Prova.Form1.pt-BR.resources
+D:\DAD(C#)\Padaria-Prova\obj\Debug\Padaria-Prova.csproj.GenerateResource.cache
+D:\DAD(C#)\Padaria-Prova\obj\Debug\Padaria-Prova.csproj.CoreCompileInputs.cache
+D:\DAD(C#)\Padaria-Prova\obj\Debug\pt-BR\Padaria-Prova.resources.dll
+D:\DAD(C#)\Padaria-Prova\obj\Debug\Padaria-Prova.exe
+D:\DAD(C#)\Padaria-Prova\obj\Debug\Padaria-Prova.pdb
